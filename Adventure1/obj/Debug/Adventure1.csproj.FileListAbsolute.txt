@@ -1,0 +1,32 @@
+C:\Users\Ja\source\repos\Adventure1\Adventure1\bin\Debug\Adventure1.exe
+C:\Users\Ja\source\repos\Adventure1\Adventure1\bin\Debug\Adventure1.pdb
+C:\Users\Ja\source\repos\Adventure1\Adventure1\obj\Debug\Adventure1.csprojAssemblyReference.cache
+C:\Users\Ja\source\repos\Adventure1\Adventure1\obj\Debug\Adventure1.Form1.resources
+C:\Users\Ja\source\repos\Adventure1\Adventure1\obj\Debug\Adventure1.Properties.Resources.resources
+C:\Users\Ja\source\repos\Adventure1\Adventure1\obj\Debug\Adventure1.csproj.GenerateResource.cache
+C:\Users\Ja\source\repos\Adventure1\Adventure1\obj\Debug\Adventure1.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\Adventure1\Adventure1\obj\Debug\Adventure1.exe
+C:\Users\Ja\source\repos\Adventure1\Adventure1\obj\Debug\Adventure1.pdb
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\bin\Debug\Adventure1.exe
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\bin\Debug\Adventure1.pdb
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.csprojAssemblyReference.cache
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.Form1.resources
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.Menu.resources
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.Properties.Resources.resources
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.csproj.GenerateResource.cache
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.csproj.CoreCompileInputs.cache
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.exe
+C:\Users\Maciek Małek\Desktop\Adventure1\Adventure1\obj\Debug\Adventure1.pdb
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.csprojAssemblyReference.cache
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.Form1.resources
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.Menu.resources
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.Properties.Resources.resources
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.Uzytkownik.resources
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.csproj.GenerateResource.cache
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.csproj.CoreCompileInputs.cache
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.exe
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.pdb
+E:\Adventure1\Adventure1\bin\Debug\Adventure1.exe
+E:\Adventure1\Adventure1\bin\Debug\Adventure1.pdb
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.Form2.resources
+E:\Adventure1\Adventure1\obj\Debug\Adventure1.Form3.resources
